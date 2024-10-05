@@ -11,6 +11,7 @@
 # 3. Make the script executable:
 
    . Make the script executable: chmod +x port-scanning-script.py
+
    . Run it: ./port-scanning-script.py
 
 # 4. Run Python interactively:
